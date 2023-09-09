@@ -46,4 +46,4 @@ Getting involved with Wild Spirits is easy:
 
 Happy coding and game development!
 
-![Wild Spirits](./profile/WS.png)
+<!-- ![Wild Spirits](./profile/WS.png) -->
