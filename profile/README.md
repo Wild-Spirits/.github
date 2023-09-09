@@ -1,6 +1,6 @@
 # Wild Spirits
 
-![Wild Spirits](WS.png)
+![Wild Spirits](./WS.png)
 
 ## Welcome to Wild Spirits!
 
@@ -46,4 +46,4 @@ Getting involved with Wild Spirits is easy:
 
 Happy coding and game development!
 
-![Wild Spirits](WS.png)
+![Wild Spirits](./WS.png)
