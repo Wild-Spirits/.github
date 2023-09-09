@@ -1,8 +1,8 @@
 # Wild Spirits
 
-![Wild Spiritso](https://your-organization-logo-url-here.png)
+![Wild Spirits](WS.png)
 
-## Welcome to GameDevC++!
+## Welcome to Wild Spirits!
 
 Welcome to the Wild Spirits organization on GitHub, a community of passionate game developers who love working with C++. Whether you're a seasoned developer or just getting started, Wild Spirits is the place to be for all things related to game development with C++.
 
@@ -46,4 +46,4 @@ Getting involved with Wild Spirits is easy:
 
 Happy coding and game development!
 
-![Wild Spirits](https://your-organization-logo-url-here.png)
+![Wild Spirits](WS.png)
