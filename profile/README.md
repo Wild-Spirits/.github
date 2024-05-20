@@ -1,4 +1,3 @@
-# Wild Spirits
 
-## Welcome to Wild Spirits!
+# Welcome to Wild Spirits!
 
